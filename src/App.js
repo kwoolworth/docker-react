@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          You are the weakest link! Goodbye!
+          You are the weakest link! - Goodbye!
         </p>
         <a
           className="App-link"
